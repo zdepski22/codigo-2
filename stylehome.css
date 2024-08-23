@@ -1,0 +1,126 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #EBF4F6;
+}
+.topo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #37B7C3;
+    width: 96%;
+    height: 100px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.home1{
+    width: 60%;
+    margin-left: 30px;
+}
+.botoes{
+    width: 20%;
+
+}
+button{
+    margin: 10px;
+    width: 100px;
+    background-color: #EBF4F6;
+    height: 40px;
+}
+.title{
+    font-size: 50px;
+}
+.m{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: #37B7C3;
+    width: 30%;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.img1{
+    width: 350px;
+}
+.texto{
+    width: 60%;
+    background-color: #37B7C3;
+    height: 300px ;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+p{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.m1{
+    display: flex;
+    justify-content: space-between;
+}
+.img2{
+    width: 30%;
+    background-color: #37B7C3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    width: 30%;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.image1{
+    width: 400px;
+}
+.img3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    background-color: #37B7C3;
+    height: 300px ;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.image{
+    width: 400px;
+    margin-left: 20px;
+}
+.r{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #37B7C3;
+    width: 96%;
+    height: 80px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.icon{
+    width: 50px;
+}
+.wtpp{
+    display: flex;
+    align-items: center;
+}
+.instagram{
+    display: flex;
+    align-items: center;
+}
+.facebook{
+    display: flex;
+    align-items: center;
+}
